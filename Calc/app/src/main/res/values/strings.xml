@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Calc</string>
+    <string name="result_text_view_hint">input expression</string>
+    <string name="btn_1_name">1</string>
+    <string name="btn_2_name">2</string>
+    <string name="btn_3_name">3</string>
+    <string name="btn_sum_name">+</string>
+    <string name="btn_4_name">4</string>
+    <string name="btn_5_name">5</string>
+    <string name="btn_6_name">6</string>
+    <string name="btn_sub_name">-</string>
+    <string name="btn_7_name">7</string>
+    <string name="btn_8_name">8</string>
+    <string name="btn_9_name">9</string>
+    <string name="btn_mul_name">*</string>
+    <string name="btn_0_name">0</string>
+    <string name="btn_dot_name">.</string>
+    <string name="btn_calc_name">=</string>
+    <string name="btn_div_name">/</string>
+    <string name="btn_clear_name">C</string>
+    <string name="btn_open_bracket_name">(</string>
+    <string name="btn_close_bracket_name">)</string>
 </resources>
